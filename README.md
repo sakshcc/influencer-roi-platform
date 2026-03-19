@@ -1,5 +1,5 @@
 # 🚀 Influencer ROI Intelligence Platform
-### AI-Powered Marketing Analytics | Databricks Capstone Project 2024-2025
+### AI-Powered Marketing Analytics | Databricks Project 
 
 [![Databricks](https://img.shields.io/badge/Databricks-Serverless-FF3621?style=for-the-badge&logo=databricks)](https://databricks.com)
 [![Delta Lake](https://img.shields.io/badge/Delta_Lake-3.0-00ADD8?style=for-the-badge)](https://delta.io)
@@ -97,7 +97,8 @@ An end-to-end AI platform built on Databricks that:
 └─────────────────────────────────────────────┘
 ```
 
-> 📸 **[INSERT SCREENSHOT: Databricks Job DAG showing all 6 tasks green]**
+> 📸 <img width="733" height="138" alt="Screenshot 2026-03-19 at 10 19 13 AM" src="https://github.com/user-attachments/assets/c6aa4e67-b383-4bfe-a892-6daa68b6f03d" />
+
 
 ---
 
@@ -149,7 +150,7 @@ influencer-roi-platform/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/influencer-roi-platform.git
+git clone https://github.com/sakshcc/influencer-roi-platform.git
 cd influencer-roi-platform
 ```
 
@@ -267,7 +268,7 @@ All 4 models tracked in MLflow with parameters, metrics, and artifacts:
 | ZORDER | By `influencer_id` and `campaign_id` for fast lookups |
 | Partitioning | Bronze tables partitioned by date/platform |
 
-> 📸 **[INSERT SCREENSHOT: DESCRIBE HISTORY output showing versions]**
+> 📸 <img width="558" height="201" alt="Screenshot 2026-03-19 at 10 24 31 AM" src="https://github.com/user-attachments/assets/183dc222-f0a9-4916-9617-71632518ae56" />
 
 ---
 
