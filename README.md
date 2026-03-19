@@ -285,8 +285,10 @@ All 4 models tracked in MLflow with parameters, metrics, and artifacts:
 
 All models registered in **Unity Catalog Model Registry** with full versioning.
 
-> 📸 **[INSERT SCREENSHOT: MLflow experiment runs comparison view]**
-> 📸 **[INSERT SCREENSHOT: MLflow Model Registry showing registered models]**
+> 📸 **[INSERT SCREENSHOT: MLflow experiment runs comparison view]**<img width="1180" height="425" alt="Screenshot 2026-03-19 at 10 22 25 AM" src="https://github.com/user-attachments/assets/ae497e3d-8c9f-4df2-83e5-a2839e612580" />
+
+> 📸 **[INSERT SCREENSHOT: MLflow Model Registry showing registered models]**<img width="733" height="568" alt="Screenshot 2026-03-19 at 10 23 19 AM" src="https://github.com/user-attachments/assets/ba9c92bb-dca7-4003-ac6e-98caf12995f2" />
+
 
 ---
 
@@ -313,9 +315,9 @@ All models registered in **Unity Catalog Model Registry** with full versioning.
 - 32,442 conversions tracked with Shapley weights
 - First and last touch get 40% credit each (industry standard)
 
-> 📸 **[INSERT SCREENSHOT: SQL Dashboard Cell 2 — Executive KPI table]**
-> 📸 **[INSERT SCREENSHOT: SQL Dashboard Cell 5 — Fraud monitor table]**
-> 📸 **[INSERT SCREENSHOT: SQL Dashboard Cell 9 — Budget optimization table]**
+> 📸 **[INSERT SCREENSHOT: SQL Dashboard Cell 2 — Executive KPI table]**<img width="633" height="139" alt="Screenshot 2026-03-19 at 10 25 12 AM" src="https://github.com/user-attachments/assets/57b68447-8f28-4175-8527-619b8376f90e" />
+
+> 📸 **[INSERT SCREENSHOT: SQL Dashboard Cell 5 — Fraud monitor table]**<img width="646" height="123" alt="Screenshot 2026-03-19 at 10 26 15 AM" src="https://github.com/user-attachments/assets/6142a757-5679-4d5b-afc0-f57358bd4833" />
 
 ---
 
@@ -353,7 +355,7 @@ imbalanced-learn>=0.10.0
 
 ## 🎬 Demo Video
 
-> 📸 **[INSERT LINK: Your 10-minute presentation video]**
+> 📸 **[INSERT LINK: ]**
 
 Video covers:
 1. Problem statement — $1.3B fraud crisis
@@ -372,10 +374,10 @@ Video covers:
 **Sakshi Chaudhari**
 - Domain: Marketing & Customer Analytics
 - Platform: Databricks Serverless (Free Edition)
-- Project: Capstone 2024-2025
+- Project: 2024-2025
 
 ---
 
 ## 📄 License
 
-MIT License — free to use for educational purposes.
+free to use for educational purposes.
